@@ -13,7 +13,7 @@ Este é o roteiro de desenvolvimento para me tornar um Arquiteto de Sistemas Cib
 ## Visão Geral dos 5 Anos
 
 - **Ano 1: Fundamentos Sólidos e Despertar Digital**  
-  Cursando Engenharia Elétrica/Eletrônica; bases de elétrica/eletrônica, programação embarcada, introdução a ciência de dados e engenharia de prompt.
+  Cursando Técnico em Eletrotécnica (formatura prevista para meados do próximo ano) e Engenharia Elétrica/Eletrônica; bases de elétrica/eletrônica, programação embarcada, introdução a ciência de dados e engenharia de prompt.
 
 - **Ano 2: Automação Industrial e Conectividade Avançada**  
   Domínio de CLP, IHM, redes industriais, IIoT e cloud para OT.
@@ -33,8 +33,9 @@ Este é o roteiro de desenvolvimento para me tornar um Arquiteto de Sistemas Cib
 
 Estou no **Ano 1: Fundamentos Sólidos e Despertar Digital**
 
-- Cursando atualmente o **Curso de Engenharia de Prompts nº 10** (Udemy: ChatGPT, Gemini, Meta AI, Grok e mais).
-- Além disso, estou matriculado no curso de **Engenharia Elétrica/Eletrônica** para fortalecer a base teórica e prática em circuitos e sistemas eletrônicos.
+- Cursando **Técnico em Eletrotécnica**, com formatura prevista para meados do próximo ano.  
+- Realizando o **Curso de Engenharia de Prompts nº 10** (Udemy: ChatGPT, Gemini, Meta AI, Grok e mais).  
+- Matriculado também em **Engenharia Elétrica/Eletrônica** para fortalecer a base teórica e prática em circuitos e sistemas eletrônicos.
 
 Próximos passos deste ano:
 
@@ -51,3 +52,4 @@ Próximos passos deste ano:
 - Telefone: +55 49 99969-0669  
 - LinkedIn: https://linkedin.com/in/seu-perfil  
 - GitHub: https://github.com/automacaosontag-tech  
+
