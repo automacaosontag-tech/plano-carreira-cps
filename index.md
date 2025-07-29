@@ -13,7 +13,7 @@ Este é o roteiro de desenvolvimento para me tornar um Arquiteto de Sistemas Cib
 ## Visão Geral dos 5 Anos
 
 - **Ano 1: Fundamentos Sólidos e Despertar Digital**  
-  Bases de elétrica/eletrônica, programação embarcada, introdução a ciência de dados e engenharia de prompt.
+  Cursando Engenharia Elétrica/Eletrônica; bases de elétrica/eletrônica, programação embarcada, introdução a ciência de dados e engenharia de prompt.
 
 - **Ano 2: Automação Industrial e Conectividade Avançada**  
   Domínio de CLP, IHM, redes industriais, IIoT e cloud para OT.
@@ -31,13 +31,14 @@ Este é o roteiro de desenvolvimento para me tornar um Arquiteto de Sistemas Cib
 
 ## Etapa Atual
 
-Estou no **Ano 1: Fundamentos Sólidos e Despertar Digital**  
+Estou no **Ano 1: Fundamentos Sólidos e Despertar Digital**
 
-Atualmente participando do **Curso de Engenharia de Prompts nº 10** (Udemy: ChatGPT, Gemini, Meta AI, Grok e mais) e complementando com outros cursos de prompt engineering.
+- Cursando atualmente o **Curso de Engenharia de Prompts nº 10** (Udemy: ChatGPT, Gemini, Meta AI, Grok e mais).
+- Além disso, estou matriculado no curso de **Engenharia Elétrica/Eletrônica** para fortalecer a base teórica e prática em circuitos e sistemas eletrônicos.
 
 Próximos passos deste ano:
 
-- Revisar conceitos de circuitos e eletrônica analógica.  
+- Revisar e aprofundar conceitos de circuitos e eletrônica analógica.  
 - Avançar na programação C/C++ para ESP32 e FPGAs.  
 - Explorar pandas, NumPy e visualização de dados em Python.  
 - Desenvolver o projeto “Estação de Monitoramento Ambiental Inteligente”.
