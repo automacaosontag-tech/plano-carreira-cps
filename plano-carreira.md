@@ -50,5 +50,4 @@ Sinta-se à vontade para acompanhar meu progresso ou tirar dúvidas:
 - Email: seu.email@exemplo.com  
 - LinkedIn: https://linkedin.com/in/seu-perfil  
 - GitHub: https://github.com/automacaosontag-tech  
-[Baixar o plano completo (PDF)](https://raw.githubusercontent.com/automacaosontag-tech/plano-carreira-cps/main/Plano_de_Desenvolvimento_Arquiteto_de_Sistemas_Ciber-Físicos_e_Mestre_em_Engenharia_de_Prompt_(Versão_2.0).pdf)
 
